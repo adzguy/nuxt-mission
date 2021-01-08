@@ -1,0 +1,14 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "PlanetList": {
+    "description": "Auto imported from components/PlanetList.vue"
+  },
+  "LazyPlanetList": {
+    "description": "Auto imported from components/PlanetList.vue"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/davron/Desktop/nuxt-mission/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_0875dcd2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/davron/Desktop/nuxt-mission/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1b7cec5c"
+  },
+  {
+    "name": "slug",
+    "path": "/:slug",
+    "component": "/Users/davron/Desktop/nuxt-mission/pages/_slug.vue",
+    "chunkName": "pages/_slug",
+    "_name": "_19c64b14"
+  }
+]
